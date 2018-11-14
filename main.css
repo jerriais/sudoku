@@ -1,0 +1,12 @@
+#board{
+  width:900px;
+  height: 900px;
+  background-color: grey;
+  border-style: none;
+}
+
+.row{
+  width: 900px;
+  height: 100px;
+  border-style: solid
+}
